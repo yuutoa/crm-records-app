@@ -31,3 +31,6 @@ Thumbs.db
 
 # Environments
 .env
+
+# Migrations
+*/migrations/

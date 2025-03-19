@@ -28,7 +28,7 @@ Below are some preview images showcasing the CRM-Records:
 1. **Clone the Repository:**  
 ```bash
  git clone https://github.com/yuutoa/crm-records-app.git
- cd CRMProject
+ cd crm-records-app
 ```
 
 2. **Create and Activate Virtual Environment:**  
